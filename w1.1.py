@@ -5,7 +5,7 @@ from keras.layers import Dense
 import matplotlib.pyplot as plt
 
 
-#data
+#dat
 X = np.linspace(0,1,1000)
 y=5*X+7+np.random.randn(1000)
 
